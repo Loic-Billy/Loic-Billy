@@ -1,6 +1,6 @@
 ### Bonjour 👋 moi c'est loïc
 
-Actuellement en	formation pour devenir développeur web
+Actuellement en	formation pour devenir développeur web.
 La formation ce déroule en téléprésentiel sur 5 mois :
 - 700 heures intensives de formation
 - 3 mois de socle : Html / CSS / JS / PHP 
