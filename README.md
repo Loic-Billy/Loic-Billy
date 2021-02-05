@@ -1,6 +1,43 @@
-### Bonjour 👋 moi c'est loïc
+### Bonjour 👋 
 
-Actuellement en	formation pour devenir développeur web.
+Moi c'est Loïc 26 ans, passionner de jeux vidéo (particulièrement de MMORPG), de manga, du Japon et de Disney.
+
+Je suis à la recherche constante de challenge, de difficulté et de nouvelle chose a aprendre. Autant de chose que je n'avais pas dans mon ancien travail.
+
+C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Developpeur Web à l'école O'clock, pour pouvoir faire un métier qui me passionne et où l'ennui n'existe pas.
+
+## Mes Compétences
+
+```html
+<ul>
+    <li>
+        HTML
+    </li>
+    <li>
+        CSS
+    </li>
+    <li>
+        PHP
+    </li>
+    <li>
+        JavaScript
+    </li>
+    <li>
+        SQL
+    </li>
+    <li>
+        WordPress
+    </li>
+    <li>
+        GitHub
+    </li>
+</ul>
+```
+
+## FrameWork Utilisé
+
+## Méthodologie maitrisé
+
 
 La formation ce déroule en téléprésentiel sur 5 mois :
 - 700 heures intensives de formation
