@@ -2,9 +2,9 @@
 
 Moi c'est Loïc 26 ans, passionner de jeux vidéo (particulièrement de MMORPG), de manga, du Japon et de Disney.
 
-Je suis à la recherche constante de challenge, de difficulté et de nouvelle chose a aprendre. Autant de chose que je n'avais pas dans mon ancien travail.
+Je suis à la recherche constante de challenge, de difficulté et de nouvelle chose à apprendre. Autant de choses que je n'avais pas dans mon ancien travail.
 
-C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Developpeur Web à l'école O'clock, pour pouvoir faire un métier qui me passionne et où l'ennui n'existe pas.
+C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Développeur Web à l'école O'clock, pour pouvoir faire un métier qui me passionne et où l'ennui n'existe pas.
 
 ## Mes Compétences
 
@@ -68,7 +68,7 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
 ### Détails sur ma formation de reconvertion chez O'clock
 <details>
     
-La formation ce déroule en téléprésentiel sur 5 mois :
+La formation ces déroulée en téléprésentiel sur 5 mois :
 - 700 heures intensives de formation
 - 3 mois de socle : Html / CSS / JS / PHP 
 - 1 mois de spécialisation : Spécialisation Symfony 
