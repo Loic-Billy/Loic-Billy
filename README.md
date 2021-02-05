@@ -70,6 +70,10 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
  vous pouvez me retrouver sur : https://www.linkedin.com/in/loic-billy/
  
  me contacter par mail : loicn.19@gmail.com
+ 
+ ## Projet en cours :
+ - mon portfolio
+ - mon projet de fin de formation
 
 ### Détails sur ma formation de reconvertion chez O'clock
 <details>
