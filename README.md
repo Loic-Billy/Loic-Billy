@@ -66,8 +66,8 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
  me contacter par mail : loicn.19@gmail.com
 
 ### Détails sur ma formation de reconvertion chez O'clock
-
-###La formation ce déroule en téléprésentiel sur 5 mois :
+<details>
+La formation ce déroule en téléprésentiel sur 5 mois :
 - 700 heures intensives de formation
 - 3 mois de socle : Html / CSS / JS / PHP 
 - 1 mois de spécialisation : Spécialisation Symfony 
@@ -75,5 +75,5 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
   - Doctrine et modèles, fixtures, concept d'ORM, lire et écrire en base de données
   - Formulaires, sécurité, sessions et comptes
   - API, services, events, test unitaires et fonctionnels, déploiement
-- 1 mois de projet###
-
+- 1 mois de projet
+</details>
