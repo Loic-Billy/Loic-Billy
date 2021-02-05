@@ -62,7 +62,7 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
         Architecture MVC
     </li>
     <li>
-        Méthode Agile (Daily scrum)
+        Méthode Agile (Scrum)
     </li>
 </ul>
 ```
