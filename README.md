@@ -10,9 +10,7 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
 
 ```html
 <ul>
-    <li>
-        HTML
-    </li>
+    <li> HTML </li>
     <li>
         CSS
     </li>
