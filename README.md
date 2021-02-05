@@ -71,7 +71,7 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
  
  me contacter par mail : loicn.19@gmail.com
  
- ## Projet en cours :
+ ## Projets en cours :
  - mon portfolio
  - mon projet de fin de formation
 
