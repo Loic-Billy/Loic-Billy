@@ -35,6 +35,16 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
 ```
 
 ## FrameWork Utilisé
+```html
+<ul>
+    <li>
+        Synfony
+    </li>
+    <li>
+        Lumen by laravel 
+    </li>
+</ul>
+```
 
 ## Méthodologie maitrisé
 
