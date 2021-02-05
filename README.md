@@ -10,8 +10,8 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
 
 ```html
 <ul>
-    <li> 
-        HTML 
+    <li>
+        HTML
     </li>
     <li>
         CSS
@@ -26,10 +26,16 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
         SQL
     </li>
     <li>
+        DQL
+    </li>
+    <li>
         WordPress
     </li>
     <li>
         GitHub
+    </li>
+    <li>
+        Twig
     </li>
 </ul>
 ```
