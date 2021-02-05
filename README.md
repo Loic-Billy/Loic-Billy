@@ -56,13 +56,13 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
 ```html
 <ul>
     <li>
-        Programmation orientée object (POO)
+        Programmation orientée object ( POO )
     </li>
     <li>
         Architecture MVC
     </li>
     <li>
-        Méthode Agile (Scrum)
+        Méthode Agile ( méthode Scrum )
     </li>
 </ul>
 ```
