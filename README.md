@@ -74,6 +74,8 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
  ## Projets en cours :
  - mon portfolio
  - mon projet de fin de formation
+ 
+___
 
 ### Détails sur ma formation de reconvertion chez O'clock
 <details>
