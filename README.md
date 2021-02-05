@@ -67,6 +67,7 @@ C'est pourquoi en 2020 j'ai décider de faire une reconversion pour devenir Deve
 
 ### Détails sur ma formation de reconvertion chez O'clock
 <details>
+    
 La formation ce déroule en téléprésentiel sur 5 mois :
 - 700 heures intensives de formation
 - 3 mois de socle : Html / CSS / JS / PHP 
@@ -76,4 +77,5 @@ La formation ce déroule en téléprésentiel sur 5 mois :
   - Formulaires, sécurité, sessions et comptes
   - API, services, events, test unitaires et fonctionnels, déploiement
 - 1 mois de projet
+
 </details>
