@@ -66,11 +66,11 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
     </li>
 </ul>
 ```
-
+___
  vous pouvez me retrouver sur : https://www.linkedin.com/in/loic-billy/
  
  me contacter par mail : loicn.19@gmail.com
- 
+___ 
  ## Projets en cours :
  - mon portfolio
  - mon projet de fin de formation
