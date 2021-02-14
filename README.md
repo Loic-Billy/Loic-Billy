@@ -67,7 +67,9 @@ C'est pourquoi en 2020, j'ai décidé de faire une reconversion pour devenir Dé
 </ul>
 ```
 ___
- vous pouvez me retrouver sur : https://www.linkedin.com/in/loic-billy/
+ vous pouvez me retrouver sur :
+ - linkedin : https://www.linkedin.com/in/loic-billy/
+ - mon portfolio : https://loic-billy.github.io/
  
  me contacter par mail : loicn.19@gmail.com
 ___ 
