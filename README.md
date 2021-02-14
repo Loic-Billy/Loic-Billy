@@ -75,8 +75,6 @@ ___
 ___ 
  ## Projets en cours :
  - mon projet de fin de formation
- 
- ## Amélioration de projet
  - mon portfolio https://loic-billy.github.io/ : amélioration des animations
 ___
 
