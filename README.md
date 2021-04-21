@@ -74,7 +74,8 @@ ___
  me contacter par mail : loicn.19@gmail.com
 ___ 
  ## Projets en cours :
- - mon projet de fin de formation
+ - mon projet de fin de formation : escape O'Room
+ - autoformation sur WordPress
  - mon portfolio https://loic-billy.github.io/ : amélioration des animations
 ___
 
